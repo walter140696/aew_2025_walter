@@ -4,3 +4,13 @@ h1{
 p{
     margin: auto;
 }
+.tarjeta-personal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    position: absolute;
+    width: 70%;
+    top: 50%;
+    left: 50%;
+}
